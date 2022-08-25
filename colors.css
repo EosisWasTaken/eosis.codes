@@ -1,0 +1,42 @@
+html {
+	background-color: #100e13;
+}
+
+.colors {
+	font-weight: bold;
+}
+.write {
+	color : #c3bac6;
+}
+
+.background {
+	color : #100e13;
+}
+
+.title {
+	color: #fecb00;
+}
+
+.links {	
+	color : #906cff;
+}
+
+.caret {
+	color : #5eadf2;
+}
+
+.warning {
+	color : #fe4a49;
+}
+
+.hack {
+	color : #03a062;
+}
+
+.time {
+	color : #00c5c7;
+}
+
+.note {
+	color : #f141a8;
+}
